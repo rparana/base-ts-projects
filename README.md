@@ -1,6 +1,6 @@
-### Repositório Base-ts-projects
+# Repositório Base-ts-projects
 ## Config inicial para novos projetos em TS Node
-# Items
+### Items
 - Typescript
 - Eslint (airbnb)
 - Jest
